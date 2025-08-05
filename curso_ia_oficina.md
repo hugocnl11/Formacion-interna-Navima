@@ -64,4 +64,7 @@ Consulta con tus supervisores para aplicar lo aprendido a tus actividades diaria
 
 ---
 
-## [⏮️](README.md)[⏭️](Modulo_2.md)
+<p align="center">
+  <a href="README.md">⏮️ Anterior</a> &nbsp;&nbsp;&nbsp;
+  <a href="Modulo_2.md">Siguiente ⏭️</a>
+</p>
