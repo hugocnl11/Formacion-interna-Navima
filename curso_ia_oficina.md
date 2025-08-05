@@ -1,3 +1,5 @@
+![Navima Logo](/assets/navima_logo_negro.png)
+
 # Curso básico de IA para Marketing, Ecommerce, Facturación y Contabilidad
 
 La inteligencia artificial (IA) puede automatizar tareas repetitivas y mejorar la productividad en los departamentos de oficina. Este curso está diseñado para que los compañeros de Marketing, Ecommerce, Facturación y Contabilidad aprendan a utilizar asistentes como ChatGPT para redactar correos electrónicos, generar fórmulas de Excel, resumir documentos y mejorar su día a día. El objetivo es que la IA actúe como copiloto, nunca como sustituto del conocimiento profesional.
