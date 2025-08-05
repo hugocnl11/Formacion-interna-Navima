@@ -1,4 +1,4 @@
-![Navima Logo](/navima_logo_negro.png)
+![Navima Logo](/oficina_basico/stuff/navima_logo_negro.png)
 
 ---
 # 🧠 Módulo 1: Introducción a la IA en la oficina
@@ -9,7 +9,7 @@ La **inteligencia artificial** (IA) es la capacidad de una máquina para realiza
 
 📌 **En oficina**, se usa para automatizar procesos, redactar textos, analizar datos, o asistir al usuario con tareas repetitivas.
 
-![IA en la oficina](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*67v7KjmdH8hFDOP8VHwqTQ.png)
+![IA en la oficina](/oficina_basico/stuff/ia1.png)
 
 ### 🧩 Tipos de IA comunes en el entorno profesional:
 
