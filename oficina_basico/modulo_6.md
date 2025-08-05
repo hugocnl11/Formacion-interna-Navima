@@ -68,5 +68,5 @@ Escribe tus respuestas y compártelas en grupo si lo deseas.
 ---
 
 <p align="center">
-  <a href="modulo_5.md">⏮️ Módulo anterior</a>
+  <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_basico/modulo_5.html">⏮️ Módulo anterior</a> 
 </p>

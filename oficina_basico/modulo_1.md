@@ -76,3 +76,8 @@ Anota tus respuestas para compartirlas en la puesta en común.
 
 > La IA **no sustituye a las personas**, las **potencia**.  
 > Usarla con criterio te ayudará a **trabajar mejor, más rápido y con menos esfuerzo**.
+
+
+<p align="center">
+  <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_basico/modulo_2.html">Módulo siguiente ⏭️</a>
+</p>

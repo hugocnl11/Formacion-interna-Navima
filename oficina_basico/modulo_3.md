@@ -102,6 +102,6 @@ Comparte tu fórmula, macro o gráfico con el grupo y explica cómo lo has gener
 ---
 
 <p align="center">
-  <a href="modulo_2.md">⏮️ Módulo anterior</a> &nbsp;&nbsp;&nbsp;
-  <a href="modulo_4.md">Módulo siguiente ⏭️</a>
+  <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_basico/modulo_2.html">⏮️ Módulo anterior</a> &nbsp;&nbsp;&nbsp;
+  <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_basico/modulo_4.html">Módulo siguiente ⏭️</a>
 </p>

@@ -82,6 +82,6 @@ Esto es útil para acelerar:
 ---
 
 <p align="center">
-  <a href="modulo_3.md">⏮️ Módulo anterior</a> &nbsp;&nbsp;&nbsp;
-  <a href="modulo_5.md">Módulo siguiente ⏭️</a>
+  <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_basico/modulo_3.html">⏮️ Módulo anterior</a> &nbsp;&nbsp;&nbsp;
+  <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_basico/modulo_5.html">Módulo siguiente ⏭️</a>
 </p>

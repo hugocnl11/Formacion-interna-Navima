@@ -87,6 +87,6 @@ Reescribe este texto para que sea más claro y directo.
 ---
 
 <p align="center">
-  <a href="modulo_4.md">⏮️ Módulo anterior</a> &nbsp;&nbsp;&nbsp;
-  <a href="modulo_6.md">Módulo siguiente ⏭️</a>
+  <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_basico/modulo_4.html">⏮️ Módulo anterior</a> &nbsp;&nbsp;&nbsp;
+  <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_basico/modulo_6.html">Módulo siguiente ⏭️</a>
 </p>

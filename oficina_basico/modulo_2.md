@@ -88,6 +88,6 @@ Después, revisa el resultado con un compañero o supervisora y propón mejoras 
 ---
 
 <p align="center">
-  <a href="modulo_1.md">⏮️ Módulo anterior</a> &nbsp;&nbsp;&nbsp;
-  <a href="modulo_3.md">Módulo siguiente ⏭️</a>
+  <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_basico/modulo_1.html">⏮️ Módulo anterior</a> &nbsp;&nbsp;&nbsp;
+  <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_basico/modulo_3.html">Módulo siguiente ⏭️</a>
 </p>
