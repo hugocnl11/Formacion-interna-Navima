@@ -39,5 +39,5 @@ Descubre cómo aprovechar herramientas de IA generativa para crear ideas visuale
 
 ---
 
->Si tienes dudas técnicas o necesitas ayuda para empezar, contacta con hugo.lopez@navima.net. 
+>Si tienes dudas técnicas o necesitas ayuda para empezar, contacta con 👨🏻‍💻 hugo.lopez@navima.net. 
 

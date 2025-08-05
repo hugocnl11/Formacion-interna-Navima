@@ -1,90 +1,78 @@
-![Navima Logo](/oficina_basico/stuff/navima_logo_negro.png)
-
----
 # 🧠 Módulo 1: Introducción a la IA en la oficina
 
-## 🤖 ¿Qué es la inteligencia artificial (IA)?
+## ¿Qué es la inteligencia artificial (IA)?
 
 La **inteligencia artificial** (IA) es la capacidad de una máquina para realizar tareas que normalmente requieren inteligencia humana, como el razonamiento, el aprendizaje, el lenguaje o la toma de decisiones.
 
-📌 **En oficina**, se usa para automatizar procesos, redactar textos, analizar datos, o asistir al usuario con tareas repetitivas.
+En el contexto de oficina, se usa para automatizar procesos, redactar textos, analizar datos y asistir al usuario en tareas repetitivas.
 
-![IA en la oficina](/oficina_basico/stuff/ia1.png)
-
-### 🧩 Tipos de IA comunes en el entorno profesional:
-
-- 🧠 **IA generativa**: escribe textos, crea imágenes o código (Ej. ChatGPT, Copilot).
-- 🗣️ **IA conversacional**: chatbots o asistentes virtuales (Ej. Intercom, Drift).
-- 📊 **IA predictiva**: analiza datos y anticipa resultados (Ej. Power BI con IA).
+### Tipos de IA comunes en el entorno profesional
+- **IA generativa**: escribe textos, crea imágenes o código (p. ej., ChatGPT, Copilot).
+- **IA conversacional**: chatbots o asistentes virtuales (p. ej., Intercom, Drift).
+- **IA predictiva**: analiza datos y anticipa resultados (p. ej., Power BI con IA).
 
 ---
 
 ## 💼 Ejemplos prácticos por departamento
 
-### 📣 Marketing
-- ✍️ Redacción de campañas y posts con ChatGPT.
-- 💡 Brainstorming de ideas creativas.
-- 🎯 Segmentación inteligente de audiencias.
+### Marketing
+- Redacción de campañas y posts con asistentes de IA.
+- Generación de ideas creativas (brainstorming).
+- Segmentación de audiencias basada en datos.
 
-### 🛒 Ecommerce
-- 📝 Descripciones de producto automáticas.
-- 💬 Chatbots para resolver dudas de clientes.
-- 📈 Análisis de reseñas para detectar oportunidades.
+### Ecommerce
+- Descripciones de producto automáticas.
+- Chatbots para resolver dudas de clientes.
+- Análisis de reseñas para detectar oportunidades.
 
-### 💸 Facturación
-- 📤 Extracción de datos de facturas en PDF (OCR + IA).
-- ✉️ Emails automáticos de cobro o recordatorio.
+### Facturación
+- Extracción de datos de facturas en PDF (OCR + IA).
+- Emails automáticos de cobro o recordatorio.
 
-### 📚 Contabilidad
-- 🧾 Clasificación automática de gastos.
-- 📑 Generación de informes contables preliminares.
-- 🔍 Revisión de errores comunes con IA.
+### Contabilidad
+- Clasificación automática de gastos.
+- Generación de informes contables preliminares.
+- Revisión de errores comunes con apoyo de IA.
 
 ---
 
 ## ⚖️ Ventajas y limitaciones de la IA en tareas administrativas
 
-### ✅ Ventajas
+### Ventajas
+- **Ahorro de tiempo** en tareas repetitivas.
+- **Mayor precisión**, reducción de errores humanos.
+- **Asistencia continua** (24/7).
+- **Escalabilidad** ante picos de trabajo.
 
-- ⏱️ **Ahorro de tiempo** en tareas repetitivas.
-- 🧮 **Precisión mejorada**, reducción de errores humanos.
-- 🧑‍💻 **Asistencia continua** (24/7).
-- 📈 **Escalabilidad**: responde a grandes volúmenes sin esfuerzo.
-
-### ⚠️ Limitaciones
-
-- 📉 **Calidad de datos**: la IA necesita buenos datos.
-- 🔍 **Errores no evidentes**: necesita revisión humana.
-- 🔐 **Privacidad**: no compartir datos confidenciales sin protección.
-- 🤔 **Falta de criterio humano**: no entiende matices o contexto emocional.
+### Limitaciones
+- **Dependencia de datos de calidad**.
+- **Errores sutiles**: requiere revisión humana.
+- **Privacidad y seguridad**: cuidado con información sensible.
+- **Falta de contexto**: no siempre capta matices o tono.
 
 ---
 
 ## 🧪 Actividad práctica
 
-🎯 **Ejercicio en grupo o individual**
+**Ejercicio en grupo o individual**
 
-> **Piensa en una tarea rutinaria que haces a menudo.**  
-> ¿Podrías automatizar parte de ella con IA?  
-> ¿Qué te gustaría seguir haciendo tú?
+> Piensa en una tarea rutinaria que haces a menudo.  
+> ¿Qué parte podrías automatizar con IA?  
+> ¿Qué parte prefieres seguir haciendo tú?
 
-📝 Escribe tu respuesta en un post-it o cuaderno.
+Anota tus respuestas para compartirlas en la puesta en común.
 
 ---
 
 ## 📚 Recursos complementarios
 
-- [🧠 ¿Qué es la inteligencia artificial? – IBM](https://www.ibm.com/es-es/topics/artificial-intelligence)
-- [📘 IA en el entorno laboral – Unión Europea (PDF)](https://ec.europa.eu/)
-- [💬 ChatGPT para principiantes – OpenAI](https://openai.com/chatgpt)
+- [¿Qué es la inteligencia artificial? – IBM](https://www.ibm.com/es-es/topics/artificial-intelligence)
+- [IA en el entorno laboral – Unión Europea (PDF)](https://ec.europa.eu/)
+- [ChatGPT para principiantes – OpenAI](https://openai.com/chatgpt)
 
 ---
 
-## 🎯 Conclusión
+## Conclusión
 
-> La IA **no sustituye a las personas**, sino que las **potencia**.  
-> Aprender a usarla te ayudará a **trabajar mejor, más rápido y con menos esfuerzo**.
-
-🧭 En los siguientes módulos aprenderás a **usar ChatGPT**, crear **prompts efectivos**, automatizar con hojas de cálculo y trabajar de forma más inteligente.
-
----
+> La IA **no sustituye a las personas**, las **potencia**.  
+> Usarla con criterio te ayudará a **trabajar mejor, más rápido y con menos esfuerzo**.

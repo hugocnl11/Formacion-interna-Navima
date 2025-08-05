@@ -66,5 +66,5 @@ Consulta con tus supervisores para aplicar lo aprendido a tus actividades diaria
 
 <p align="center">
   <a href="https://hugocnl11.github.io/Formacion-interna-Navima/">⏮️ Home </a> &nbsp;&nbsp;&nbsp;
-  <a href="Modulo_2.md"> Modulo 1 ⏭️</a>
+  <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_basico/modulo_1.html"> Modulo 1 ⏭️</a>
 </p>
