@@ -79,6 +79,6 @@ Anota tus respuestas para compartirlas en la puesta en común.
 
 
 <p align="center">
-    <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_basico/">Descripción del curso 📚</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://hugocnl11.github.io/Formacion-interna-Navima/curso_ia_oficina.html">Descripción del curso 📚</a>&nbsp;&nbsp;&nbsp;
     <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_basico/modulo_2.html">Módulo siguiente ⏭️</a>
 </p>
