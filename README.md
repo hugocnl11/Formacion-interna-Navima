@@ -37,9 +37,6 @@ Descubre cómo aprovechar herramientas de IA generativa para crear ideas visuale
 - Navegador actualizado (recomendado: Chrome, Edge o Safari).
 - Acceso a herramientas como ChatGPT, Canva, Excel o similares.
 
->>Si tienes dudas técnicas o necesitas ayuda para empezar, contacta con hugo.lopez@navima.net .>>
+>>Si tienes dudas técnicas o necesitas ayuda para empezar, contacta con hugo.lopez@navima.net.
 @hugocnl11 
-
-PEPE
-
 
