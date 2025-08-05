@@ -1,4 +1,4 @@
-![Navima Logo](/navima_logo_negro.png)
+## 🏠 [Inicio →](README.md)
 
 # Curso avanzado de IA para Diseño y Fotografía
 
@@ -60,4 +60,6 @@ Al finalizar este curso, serás capaz de:
 Realiza proyectos prácticos integrando la IA con tu flujo habitual y revisa periódicamente con tu equipo para afinar tu proceso creativo.
 
 ¡Prepárate para impulsar tu creatividad a nuevos límites con la IA!
+
+## ⏭️ [Siguiente módulo](modulo_2.md)
 
