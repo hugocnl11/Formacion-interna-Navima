@@ -17,20 +17,17 @@ Aquí encontrarás cursos prácticos, orientados a resultados y diseñados espec
 
 ---
 
-# 📚 Cursos Disponibles
----
-## 🧠 Curso básico de IA para Marketing, Ecommerce, Facturación y Contabilidad  
+## 📚 Cursos Disponibles
+
+### [1 🧠 Curso básico de IA (Marketing, Ecommerce, Facturación y Contabilidad) ](curso_ia_oficina.md)
+
 Aprende a utilizar asistentes de IA como **ChatGPT** para automatizar tareas administrativas, redactar correos, generar fórmulas en hojas de cálculo, resumir documentos y mucho más.
 
-### ➡️ [Ir al curso →](curso_ia_oficina.md)
-
 ---
 
-## 🎨 Curso avanzado de IA para diseño y fotografía  
+### [2 🎨 Curso avanzado de IA (Diseño y fotografía) ](curso_ia_diseno_avanzado.md)
+
 Descubre cómo aprovechar herramientas de IA generativa para crear ideas visuales, desarrollar renders realistas, editar imágenes con precisión y optimizar el flujo de trabajo creativo en los departamentos de diseño y comunicación.
-
-### ➡️ [Ir al curso →](curso_ia_diseno_avanzado.md)
-
 
 ---
 
@@ -40,5 +37,7 @@ Descubre cómo aprovechar herramientas de IA generativa para crear ideas visuale
 - Navegador actualizado (recomendado: Chrome, Edge o Safari).
 - Acceso a herramientas como ChatGPT, Canva, Excel o similares.
 
-*Si tienes dudas técnicas o necesitas ayuda para empezar, contacta con hugo.lopez@navima.net .*
+>>Si tienes dudas técnicas o necesitas ayuda para empezar, contacta con hugo.lopez@navima.net .>>
+@hugocnl11 
+
 
