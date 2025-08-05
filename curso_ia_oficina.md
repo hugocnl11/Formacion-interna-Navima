@@ -66,3 +66,8 @@ Se recomienda realizar prácticas con tareas cotidianas, aplicando lo aprendido 
 
 ¡Bienvenidos al futuro del trabajo inteligente con IA!
 
+![Iniciar Curso](/oficina_basico/modulo_1.md) 
+
+
+
+
