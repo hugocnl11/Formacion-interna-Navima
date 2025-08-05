@@ -64,5 +64,4 @@ Consulta con tus supervisores para aplicar lo aprendido a tus actividades diaria
 
 ---
 
-> ¡Bienvenidos al futuro del trabajo inteligente con IA!  
-> 🌐 **[Iniciar Curso](/oficina_basico/modulo_1.md)**  
+## [⏮️](README.md)[⏭️](Modulo_2.md)
