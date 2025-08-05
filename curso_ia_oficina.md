@@ -1,4 +1,4 @@
-![Navima Logo](/assets/navima_logo_negro.png)
+![Navima Logo](/navima_logo_negro.png)
 
 # Curso básico de IA para Marketing, Ecommerce, Facturación y Contabilidad
 
