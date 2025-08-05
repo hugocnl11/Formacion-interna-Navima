@@ -16,33 +16,33 @@ Este curso está diseñado para que los compañeros de **Marketing**, **Ecommerc
 ---
 
 ## 📘 Contenido del Curso
-
-###  Módulo 1: Introducción a la IA en la oficina  
+ 
+### [Módulo 1: Introducción a la IA en la oficina](/oficina_basico/modulo_1.md)
 - 🤖 ¿Qué es la inteligencia artificial (IA)?  
 - 🛠️ Ejemplos prácticos en Marketing, Ecommerce, Facturación y Contabilidad.  
 - ⚖️ Ventajas y limitaciones generales de usar IA en tareas administrativas.
 
-###  Módulo 2: Redacción eficaz con IA  
+### [Módulo 2: Redacción eficaz con IA ](/oficina_basico/modulo_2.md)
 - 📨 Cómo utilizar ChatGPT para redactar correos electrónicos.  
 - 🗣️ Personalización y adaptación del tono profesional.  
 - 🧾 Buenas prácticas para una redacción efectiva con IA.
-
-###  Módulo 3: Automatización de hojas de cálculo  
+   
+### [Módulo 3: Automatización de hojas de cálculo](/oficina_basico/modulo_3.md)
 - ➕ Generación automática de fórmulas complejas.  
 - 🧩 Creación y edición de macros con soporte de IA.  
 - 📉 Análisis rápido y visualización de datos mediante asistentes inteligentes.
 
-###  Módulo 4: Gestión documental con IA  
+### [Módulo 4: Gestión documental con IA ](/oficina_basico/modulo_4.md)
 - 🔍 Cómo resumir documentos extensos (PDF, Word, etc.) con IA.  
 - 🗂️ Extracción automática de datos clave desde documentos.  
 - 🧰 Herramientas recomendadas para la gestión eficiente de información.
-
-###  Módulo 5: Prompt-Engineering: Buenas prácticas  
+ 
+### [Módulo 5: Prompt-Engineering: Buenas prácticas ](/oficina_basico/modulo_5.md) 
 - 💬 Qué es el *prompt-engineering* y por qué es importante.  
 - 🎯 Técnicas para obtener mejores respuestas de ChatGPT y similares.  
 - 🔍 Revisión crítica y corrección de resultados generados por IA.
-
-###  Módulo 6: Ética y privacidad  
+   
+### [Módulo 6: Ética y privacidad ](/oficina_basico/modulo_6.md)
 - ⚠️ Riesgos de privacidad y confidencialidad al usar IA.  
 - 🔒 Cómo proteger información sensible y cumplir normativas.  
 - 🧭 Límites éticos del uso de la IA en contextos laborales.
@@ -65,6 +65,6 @@ Consulta con tus supervisores para aplicar lo aprendido a tus actividades diaria
 ---
 
 <p align="center">
-  <a href="README.md">⏮️ Anterior</a> &nbsp;&nbsp;&nbsp;
-  <a href="Modulo_2.md">Siguiente ⏭️</a>
+  <a href="https://hugocnl11.github.io/Formacion-interna-Navima/">⏮️ Home </a> &nbsp;&nbsp;&nbsp;
+  <a href="Modulo_2.md"> Modulo 1 ⏭️</a>
 </p>
