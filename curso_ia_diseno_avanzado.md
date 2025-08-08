@@ -1,5 +1,3 @@
-## 🏠 [Inicio →](README.md)
-
 # Curso avanzado de IA para Diseño y Fotografía
 
 Este curso está dirigido a diseñadores de calzado y fotógrafos que deseen integrar modelos generativos en su flujo de trabajo. Se estudiarán herramientas como DALL·E, Adobe Firefly, Vizcom y NewArc, combinándolas con software tradicional (Photoshop, Illustrator, Rhino) para crear nuevas colecciones de calzado, renderizar bocetos en 3D, aplicar texturas reales y producir animaciones. La IA servirá como asistente creativo que multiplica las ideas y reduce tiempos de prototipado.
