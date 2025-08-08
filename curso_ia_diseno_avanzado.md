@@ -20,27 +20,27 @@ Al finalizar este curso, serás capaz de:
 
 ## Contenido del Curso
 
-### Módulo 1: Modelos generativos en diseño y fotografía
+### [Módulo 1: Modelos generativos en diseño y fotografía](/oficina_avanzado/modulo_1.md)
 - Introducción a DALL·E, Adobe Firefly, Vizcom, NewArc y Midjourney.
 - Cómo utilizar IA para generar conceptos y propuestas innovadoras.
 - Técnicas de inspiración y creación a partir de prompts efectivos.
 
-### Módulo 2: Integración avanzada de texturas y materiales
+### [Módulo 2: Integración avanzada de texturas y materiales ](/oficina_avanzado/modulo_2.md)
 - Técnicas para incorporar texturas reales y materiales específicos en prompts.
 - Consejos para obtener resultados realistas y aplicables.
 - Ejemplos prácticos en diseño de calzado y accesorios.
 
-### Módulo 3: De bocetos a renders y animaciones
+### [Módulo 3: De bocetos a renders y animaciones ](/oficina_avanzado/modulo_3.md)
 - Uso de IA para transformar bocetos en modelos 3D.
 - Renderizado realista y creación de animaciones rápidas.
 - Herramientas recomendadas para el prototipado digital (Rhino, Blender, etc.).
 
-### Módulo 4: Aspectos legales y derechos de autor
+### [Módulo 4: Aspectos legales y derechos de autor](/oficina_avanzado/modulo_4.md) 
 - Regulaciones vigentes sobre imágenes generadas por IA.
 - Gestión adecuada de licencias y permisos en comercialización.
 - Buenas prácticas para evitar conflictos legales.
 
-### Módulo 5: Integración en flujos de trabajo tradicionales
+### [Módulo 5: Integración en flujos de trabajo tradicionales](/oficina_avanzado/modulo_5.md)
 - Combinación efectiva de software tradicional (Photoshop, Illustrator, Rhino) con herramientas IA.
 - Estrategias para optimizar tiempos de trabajo.
 - Creación de flujos flexibles que aprovechen al máximo las herramientas disponibles.
@@ -61,5 +61,5 @@ Realiza proyectos prácticos integrando la IA con tu flujo habitual y revisa per
 
 ¡Prepárate para impulsar tu creatividad a nuevos límites con la IA!
 
-## ⏭️ [Siguiente módulo](modulo_2.md)
+## ⏭️ [Siguiente módulo](modulo_1.md)
 
