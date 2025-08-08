@@ -61,5 +61,8 @@ Realiza proyectos prácticos integrando la IA con tu flujo habitual y revisa per
 
 ¡Prepárate para impulsar tu creatividad a nuevos límites con la IA!
 
-## ⏭️ [Siguiente módulo](modulo_1.md)
+<p align="center">
+  <a href="https://hugocnl11.github.io/Formacion-interna-Navima/">⏮️ Home </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_avanzado/modulo_1.html"> Modulo 1 ⏭️</a>
+</p>
 
