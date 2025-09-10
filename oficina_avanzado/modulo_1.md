@@ -40,8 +40,8 @@ En el sector del calzado y la fotografía de producto, esto supone **un salto de
 ### 1.5 Ejemplo visual
 1. **Imagen base**: fotografía de una bota negra clásica.  
  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-   <img src="{{ '/oficina_avanzado/resources/black_boot.jpg' | relative_url }}" alt="Bota negra" width="200" style="border-radius: 5px;">
-</p>
+<img src="{{ '/oficina_avanzado/resources/black_boot.jpg' | relative_url }}" alt="Bota negra" width="200" style="border-radius: 5px;">
+</div>
 
 2. **Variaciones generadas con *Nano Banana***:  
    - Roja brillante (acabado charol).  
