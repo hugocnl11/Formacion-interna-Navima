@@ -40,29 +40,18 @@ En el sector del calzado y la fotografía de producto, esto supone **un salto de
 ### 1.5 Ejemplo visual
 1. **Imagen base**: fotografía de una bota negra clásica.  
 
-PRUEBA 1
-![Bota negra]({{ '/oficina_avanzado/resources/black_boot.jpg' | relative_url }})
-
-PRUEBA 2
-<p align="center">
-  <img src="{{ '/oficina_avanzado/resources/red_boot.png' | relative_url }}" alt="Bota roja" width="520">
-</p>
-
-PRUEBA 3
-![Bota negra](./resources/black_boot.jpg)
-
-PRUEBA 4
-![Bota negra]({{ site.baseurl }}/oficina_avanzado/resources/black_boot.jpg)
-
-
-
 2. **Variaciones generadas con *Nano Banana***:  
    - Roja brillante (acabado charol).  
    - Verde con textura de burbujas (efecto experimental).  
    - Animal print (acabado de tendencia).  
 
-*(Aquí insertarás las imágenes: primero la base negra, luego las tres variaciones generadas con Nano Banana)*  
-
+        <p align="center">
+        <img src="{{ '/oficina_avanzado/resources/black_boot.png' | relative_url }}" alt="Bota negra" width="400">
+        <img src="{{ '/oficina_avanzado/resources/bubble_boot.png' | relative_url }}" alt="Bota negra" width="400">
+        <img src="{{ '/oficina_avanzado/resources/ed_boot.png' | relative_url }}" alt="Bota roja" width="400">
+        <img src="{{ '/oficina_avanzado/resources/leopard_boot.png' | relative_url }}" alt="Bota leopardo" width="400">
+        </p>
+ 
 ---
 
 ### 1.6 Conclusión
