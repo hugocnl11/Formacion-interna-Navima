@@ -20,6 +20,7 @@
       <img src="{{ '/oficina_avanzado/resources/mat1.jpg' | relative_url }}" alt="Mat1" width="200" style="border-radius: 5px;">
       <img src="{{ '/oficina_avanzado/resources/mat2.jpg' | relative_url }}" alt="Mat2" width="200" style="border-radius: 5px;">
       <img src="{{ '/oficina_avanzado/resources/mat3.jpg' | relative_url }}" alt="Mat3" width="200" style="border-radius: 5px;">
+      <BR>
    </div>
 
    - Acabados → mate, brillo, metálico.  
@@ -27,6 +28,7 @@
       <img src="{{ '/oficina_avanzado/resources/style1.jpg' | relative_url }}" alt="Style1" width="200" style="border-radius: 5px;">
       <img src="{{ '/oficina_avanzado/resources/style2.jpg' | relative_url }}" alt="Style2" width="200" style="border-radius: 5px;">
       <img src="{{ '/oficina_avanzado/resources/style3.jpg' | relative_url }}" alt="Style3" width="200" style="border-radius: 5px;">
+      <BR>
    </div>
 
 
