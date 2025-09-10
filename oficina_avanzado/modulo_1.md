@@ -39,8 +39,8 @@ En el sector del calzado y la fotografía de producto, esto supone **un salto de
 
 ### 1.5 Ejemplo visual
 1. **Imagen base**: fotografía de una bota negra clásica.  
-<p align="center">
-  <img src="{{ '/oficina_avanzado/resources/black_boot.jpg' | relative_url }}" alt="Bota negra" width="200">
+ <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+   <img src="{{ '/oficina_avanzado/resources/black_boot.jpg' | relative_url }}" alt="Bota negra" width="200" style="border-radius: 5px;">
 </p>
 
 2. **Variaciones generadas con *Nano Banana***:  
@@ -48,18 +48,18 @@ En el sector del calzado y la fotografía de producto, esto supone **un salto de
    - Verde con textura de burbujas (efecto experimental).  
    - Animal print (acabado de tendencia).  
 
-        <p align="center" style="white-space: nowrap;">
-        <img src="{{ '/oficina_avanzado/resources/bubble_boot.png' | relative_url }}" alt="Bota burbujas" width="200">
-        <img src="{{ '/oficina_avanzado/resources/red_boot.png' | relative_url }}" alt="Bota roja" width="200">
-        <img src="{{ '/oficina_avanzado/resources/leopard_boot.png' | relative_url }}" alt="Bota leopardo" width="200">
-        </p>
+        <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+        <img src="{{ '/oficina_avanzado/resources/bubble_boot.png' | relative_url }}" alt="Bota burbujas" width="200" style="border-radius: 5px;">
+        <img src="{{ '/oficina_avanzado/resources/red_boot.png' | relative_url }}" alt="Bota roja" width="200" style="border-radius: 5px;">
+        <img src="{{ '/oficina_avanzado/resources/leopard_boot.png' | relative_url }}" alt="Bota leopardo" width="200" style="border-radius: 5px;">
+        </div>
  
 ---
 
 ### 1.6 Conclusión
 Con *Nano Banana*, el departamento de diseño y fotografía pasa de trabajar con limitaciones físicas a un entorno de **exploración digital infinita**, donde cada idea se convierte en imagen en cuestión de minutos.  
-
+    
 <p align="center">
     <a href="https://hugocnl11.github.io/Formacion-interna-Navima/curso_ia_diseno_avanzado.html">Descripción del curso 📚</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_avanzado  /modulo_2.html">Módulo siguiente ⏭️</a>
+    <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_avanzado/modulo_2.html">Módulo siguiente ⏭️</a>
 </p>
