@@ -12,7 +12,7 @@
 2. **Definición de cambios**  
    - Colores → paletas Pantone de temporada.  
    <p align="center">
-     <img src="{{ '/oficina_avanzado/resources/pantone.jpg' | relative_url }}" alt="Pantone" width="200">
+     <img src="{{ '/oficina_avanzado/resources/pantone.jpg' | relative_url }}" alt="Pantone" width="400">
    </p>  
 
    - Materiales → piel, charol, lona, texturas experimentales.  
@@ -20,7 +20,6 @@
       <img src="{{ '/oficina_avanzado/resources/mat1.jpg' | relative_url }}" alt="Mat1" width="200" style="border-radius: 5px;">
       <img src="{{ '/oficina_avanzado/resources/mat2.jpg' | relative_url }}" alt="Mat2" width="200" style="border-radius: 5px;">
       <img src="{{ '/oficina_avanzado/resources/mat3.jpg' | relative_url }}" alt="Mat3" width="200" style="border-radius: 5px;">
-      <img src="{{ '/oficina_avanzado/resources/mat4.jpg' | relative_url }}" alt="Mat4" width="200" style="border-radius: 5px;">
    </div>
 
    - Acabados → mate, brillo, metálico.  
@@ -29,6 +28,7 @@
       <img src="{{ '/oficina_avanzado/resources/style2.jpg' | relative_url }}" alt="Style2" width="200" style="border-radius: 5px;">
       <img src="{{ '/oficina_avanzado/resources/style3.jpg' | relative_url }}" alt="Style3" width="200" style="border-radius: 5px;">
    </div>
+
 
 3. **Generación con *Nano Banana***  
    - Se pueden escribir prompts sencillos o usar menús de selección.  
