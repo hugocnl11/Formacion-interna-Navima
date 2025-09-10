@@ -1,31 +1,64 @@
-# 🎨 Módulo 2: Integración avanzada de texturas y materiales
+# Módulo 2 – Flujo de Trabajo con *Nano Banana*
 
-Una de las ventajas más potentes de la IA generativa es poder simular **texturas y materiales realistas** sin tener que fotografiarlos. En el diseño de calzado, esto permite evaluar combinaciones de forma rápida y económica.
+### 2.1 El proceso general
+1. **Imagen base**  
+   - Boceto escaneado o foto de producto.  
+   - Ejemplo: bota negra en fondo neutro.  
 
-## Técnicas para incorporar texturas
+2. **Definición de cambios**  
+   - Colores → paletas Pantone de temporada.  
+   - Materiales → piel, charol, lona, texturas experimentales.  
+   - Acabados → mate, brillo, metálico.  
 
-- **Mencionar el material en el prompt**: “piel envejecida marrón mate” o “malla técnica 3D negra”.
-- **Adjuntar imágenes de muestra**: color, textura o patrón específico.
-- **Usar referencias de luz y entorno**: mejora el realismo de la textura.
+3. **Generación con *Nano Banana***  
+   - Prompts sencillos o menús de selección.  
+   - Varias versiones en paralelo.  
 
-**Ejemplo de prompt:**
-> “Botín de tacón medio, cuero texturizado color borgoña, costuras visibles, iluminación suave tipo catálogo”.
+4. **Selección y ajustes**  
+   - Revisión en equipo.  
+   - Iteraciones hasta la versión final.  
 
-![Cambio de color y texturas](/diseno_avanzado/stuff/ai_sneaker.png)
+5. **Exportación**  
+   - Imágenes en alta calidad listas para catálogo o presentaciones.  
 
-## Ejemplo práctico: cambio de color con IA
-Herramientas como **Pincel AI** permiten cambiar el color de un zapato en una foto:  
-1. Subir la imagen.  
-2. Seleccionar el área del zapato.  
-3. Elegir un color en RGB o subir una imagen de referencia.
+---
 
-## Actividad práctica
-- Cambia la textura de un modelo existente para simular otro material.
-- Cambia el color usando una herramienta de edición AI.
+### 2.2 Uso de prompts orientados a calzado
+Estructura ideal:  
+- **Color**: “Bota de tacón en color rojo charol brillante”  
+- **Material**: “Botín con textura de piel de leopardo mate”  
+- **Contexto (opcional)**: “Fotografía de catálogo sobre fondo blanco con iluminación de estudio”  
 
-**Recursos complementarios**
-- [Pincel AI – Cambio de color online](https://pincel.app)
-- [Texturas gratuitas – AmbientCG](https://ambientcg.com)
+---
+
+### 2.3 Control de iteraciones
+- Comparar versiones.  
+- Marcar favoritas.  
+- Generar colecciones en bloque.  
+
+---
+
+### 2.4 Ejemplo práctico
+1. Imagen base: **bota negra**.  
+2. Variaciones:  
+   - Roja brillante (charol).  
+   - Verde con textura burbujas.  
+   - Animal print en gamuza mate.  
+
+*(Aquí insertarás las imágenes: base + tres variaciones)*  
+
+---
+
+### 2.5 Beneficios del flujo
+- **Velocidad** → idea a render en minutos.  
+- **Flexibilidad** → cambios sin coste extra.  
+- **Precisión** → se mantiene la silueta del producto real.  
+
+---
+
+### 2.6 Conclusión
+El flujo con *Nano Banana* es **intuitivo y productivo**: de un diseño base surgen variaciones controladas y renders profesionales listos para trabajar.  
+
 
 <p align="center">
   <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_avanzado/modulo_1.html">⏮️ Módulo anterior</a> &nbsp;&nbsp;&nbsp;

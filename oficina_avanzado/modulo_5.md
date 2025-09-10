@@ -1,20 +1,55 @@
-# 🔧 Módulo 5: Integración en flujos de trabajo tradicionales
+# Módulo 5 – Integración de *Nano Banana* en el Proceso de la Empresa
 
-La IA no reemplaza a Photoshop, Illustrator o Rhino: los complementa.
+### 5.1 Rol en la cadena de valor
+*Nano Banana* aporta en:  
+- **Diseño**: variaciones de materiales y colores.  
+- **Marketing**: renders listos sin esperar prototipos.  
+- **Producción**: validación visual previa.  
+- **Ventas**: catálogos digitales preliminares.  
 
-## Estrategia de integración
-1. **IA para generar concepto inicial**.
-2. **Photoshop/Illustrator** para retoques y acabados.
-3. **Blender/Rhino** para modelado y prototipado 3D.
+---
 
-## Ventajas
-- Ahorro de tiempo en la fase de ideación.
-- Mayor variabilidad de propuestas.
-- Integración con procesos ya existentes.
+### 5.2 Ventajas
+- Reducción de costes.  
+- Aceleración del time-to-market.  
+- Mejor comunicación interna.  
+- Pruebas ilimitadas.  
 
-## Actividad práctica
-- Crea un concepto en IA y retócalo en Illustrator.
-- Convierte el resultado en un modelo 3D en Rhino.
+---
+
+### 5.3 Flujo recomendado
+1. Boceto o foto base.  
+2. Generación de variaciones.  
+3. Selección en equipo.  
+4. Presentación a marketing.  
+5. Validación antes de prototipado físico.  
+
+---
+
+### 5.4 Ejemplo visual
+Imagen base: bota negra.  
+Variaciones: roja brillante, verde burbujas, animal print.  
+
+*(Aquí insertarás las imágenes: base + tres variaciones en esquema de proceso)*  
+
+---
+
+### 5.5 Buenas prácticas
+- Documentar iteraciones.  
+- Definir paletas de temporada.  
+- Incluir materiales propios.  
+- Validar físicamente antes de producción masiva.  
+
+---
+
+### 5.6 Futuro del diseño con IA
+Hacia un **diseño colaborativo humano-IA**, donde el diseñador aporta dirección y la IA velocidad y variedad.  
+
+---
+
+### 5.7 Conclusión
+Integrar *Nano Banana* significa transformar el proceso en **ágil, económico y altamente creativo**, alineado con las exigencias actuales del mercado.  
+
 
 <p align="center">
   <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_avanzado/modulo_4.html">⏮️ Módulo anterior</a> 

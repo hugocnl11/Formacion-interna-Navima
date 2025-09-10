@@ -1,28 +1,52 @@
-# 🛠️ Módulo 3: De bocetos a renders y animaciones
+# Módulo 3 – Aplicaciones en Fotografía de Producto con *Nano Banana*
 
-Transformar un boceto en un render o modelo 3D solía requerir días de trabajo. Ahora, herramientas IA como **Vizcom** o **Meshy** permiten hacerlo en minutos.
+### 3.1 La fotografía de producto en calzado
+- **Primera impresión** del cliente.  
+- Diferenciación frente a la competencia.  
+- Antes dependía de prototipos físicos y estudios.  
 
-![De boceto a 3D](/diseno_avanzado/stuff/sketch_to_3d.png)
+Con *Nano Banana*, ahora se pueden generar **shootings virtuales realistas** sin fabricar prototipos.  
 
-## Flujo básico
-1. Escanear o fotografiar el boceto.
-2. Subirlo a la herramienta IA.
-3. Añadir un prompt con detalles de materiales y colores.
-4. Exportar como imagen o modelo 3D.
+---
 
-## Ejemplos de uso
-- Visualización rápida para reuniones de diseño.
-- Renders para redes sociales antes de fabricar.
-- Creación de animaciones giratorias para marketing.
+### 3.2 Aportaciones de *Nano Banana*
+- Fondos y escenarios realistas.  
+- Iluminación virtual controlada.  
+- Consistencia visual en catálogos.  
+- Ahorro de tiempo y costes.  
 
-## Actividad práctica
-- Convierte un boceto propio en un render 3D.
-- Añade iluminación y materiales realistas.
+---
 
-**Recursos complementarios**
-- [Vizcom](https://www.vizcom.ai)
-- [Meshy AI](https://www.meshy.ai)
-- [Blender](https://www.blender.org)
+### 3.3 Flujo de trabajo fotográfico con IA
+1. Foto base simple.  
+2. Variaciones en color/material.  
+3. Inserción en escenarios virtuales (urbano, estudio, pasarela).  
+4. Exportación en alta calidad.  
+
+---
+
+### 3.4 Ejemplo práctico
+1. Imagen base: bota negra.  
+2. Variaciones:  
+   - Roja brillante → catálogo e-commerce.  
+   - Verde burbujas → campaña urbana.  
+   - Animal print → pasarela virtual.  
+
+*(Aquí insertarás las imágenes: base + variaciones en contextos distintos)*  
+
+---
+
+### 3.5 Ventajas frente a la fotografía tradicional
+- **Reducción de costes**.  
+- **Rapidez**.  
+- **Flexibilidad creativa**.  
+- **Escalabilidad**.  
+
+---
+
+### 3.6 Conclusión
+*Nano Banana* convierte la fotografía de producto en un proceso **digital, escalable y flexible**, útil tanto para ventas como para creatividad.  
+
 
 <p align="center">
   <a href="https://hugocnl11.github.io/Formacion-interna-Navima/oficina_avanzado/modulo_2.html">⏮️ Módulo anterior</a> &nbsp;&nbsp;&nbsp;
