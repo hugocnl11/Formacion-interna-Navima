@@ -1,51 +1,74 @@
 # Módulo 3 – Aplicaciones en Fotografía de Producto con *Nano Banana*
 
 ### 3.1 La fotografía de producto en calzado
-- **Primera impresión** del cliente.  
-- Diferenciación frente a la competencia.  
-- Antes dependía de prototipos físicos y estudios.  
+En el sector calzado, la fotografía de producto es fundamental porque:  
+- Es la **primera impresión** que recibe el cliente.  
+- Supone un elemento de **diferenciación** frente a la competencia.  
+- Tradicionalmente dependía de prototipos físicos y sesiones en estudio.  
 
-Con *Nano Banana*, ahora se pueden generar **shootings virtuales realistas** sin fabricar prototipos.  
+Con *Nano Banana*, ahora se pueden generar **shootings virtuales realistas** sin necesidad de fabricar prototipos en fases tempranas.  
+
+<p align="center">
+  <img src="{{ '/oficina_avanzado/resources/prompt_1.png' | relative_url }}" alt="Bota negra base" width="800" style="border-radius: 5px;">
+</p>  
 
 ---
 
 ### 3.2 Aportaciones de *Nano Banana*
-- Fondos y escenarios realistas.  
-- Iluminación virtual controlada.  
-- Consistencia visual en catálogos.  
-- Ahorro de tiempo y costes.  
+- **Fondos y escenarios realistas** (estudio, urbano, pasarela, e-commerce).  
+- **Iluminación virtual controlada** para resaltar materiales y acabados.  
+- **Consistencia visual en catálogos**: misma base con diferentes variaciones.  
+- **Ahorro de tiempo y costes** al evitar sesiones fotográficas repetitivas.  
+
+> ✅ Consejo: describe en castellano el tipo de foto que buscas y pide a **ChatGPT** que lo convierta en un prompt en inglés optimizado para *Nano Banana*. Ejemplo:  
+> “Quiero un catálogo con iluminación de estudio y fondo blanco” → *ChatGPT genera el prompt en inglés perfecto para la IA*.  
+Yo :Prompt donde estas botas negras estén en una ciudad con neones: 
+*ChatGPT: Black leather mid-heel boots (identical to the reference), placed in a modern urban environment. They are on wet pavement reflecting neon city lights. Blurred cars and skyscrapers with glowing billboards in the background. The style should be realistic and high quality, focusing on the boots, highlighting their shine and elegance. Perspective slightly from ground level.
+*.  
+<p align="center">
+  <img src="{{ '/oficina_avanzado/resources/shooting_example1.png' | relative_url }}" alt="Bota negra base" width="800" style="border-radius: 5px;">
+</p>  
+
 
 ---
 
 ### 3.3 Flujo de trabajo fotográfico con IA
-1. Foto base simple.  
-2. Variaciones en color/material.  
-3. Inserción en escenarios virtuales (urbano, estudio, pasarela).  
-4. Exportación en alta calidad.  
+1. **Foto base simple** → una bota en fondo neutro.  
+2. **Variaciones en color/material** → aplicadas con prompts en inglés.  
+3. **Inserción en escenarios virtuales** → urbano, pasarela, catálogo online.  
+4. **Exportación en alta calidad** → lista para web, catálogo o redes sociales.  
 
 ---
 
 ### 3.4 Ejemplo práctico
 1. Imagen base: bota negra.  
-2. Variaciones:  
-   - Roja brillante → catálogo e-commerce.  
-   - Verde burbujas → campaña urbana.  
-   - Animal print → pasarela virtual.  
+2. Variaciones generadas con *Nano Banana*:  
+   - **Roja brillante** → ideal para catálogo de e-commerce.  
+   - **Verde burbujas** → propuesta disruptiva para campaña urbana.  
+   - **Animal print** → ejemplo de colección cápsula en pasarela virtual.  
 
-*(Aquí insertarás las imágenes: base + variaciones en contextos distintos)*  
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="{{ '/oficina_avanzado/resources/black_boot.jpg' | relative_url }}" alt="Bota negra base" width="200" style="border-radius: 5px;">
+  <img src="{{ '/oficina_avanzado/resources/red_boot.png' | relative_url }}" alt="Bota roja catálogo" width="200" style="border-radius: 5px;">
+  <img src="{{ '/oficina_avanzado/resources/bubble_boot.png' | relative_url }}" alt="Bota verde campaña urbana" width="200" style="border-radius: 5px;">
+  <img src="{{ '/oficina_avanzado/resources/pyton_boot.png' | relative_url }}" alt="Bota animal print pasarela" width="200" style="border-radius: 5px;">
+</div>  
 
 ---
 
 ### 3.5 Ventajas frente a la fotografía tradicional
-- **Reducción de costes**.  
-- **Rapidez**.  
-- **Flexibilidad creativa**.  
-- **Escalabilidad**.  
+- **Reducción de costes** → menos prototipos físicos.  
+- **Rapidez** → colecciones listas en días, no semanas.  
+- **Flexibilidad creativa** → escenarios y acabados ilimitados.  
+- **Escalabilidad** → mismo flujo aplicable a cientos de referencias.  
 
 ---
 
 ### 3.6 Conclusión
-*Nano Banana* convierte la fotografía de producto en un proceso **digital, escalable y flexible**, útil tanto para ventas como para creatividad.  
+Con *Nano Banana*, la fotografía de producto se convierte en un proceso **digital, escalable y flexible**, adaptado tanto a necesidades comerciales (catálogos, e-commerce) como creativas (campañas disruptivas).  
+
+El secreto está en **usar prompts en inglés bien optimizados con ayuda de ChatGPT**, garantizando imágenes realistas y consistentes en cualquier escenario.  
+
 
 
 <p align="center">
