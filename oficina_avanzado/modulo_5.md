@@ -1,54 +1,43 @@
 # Módulo 5 – Integración de *Nano Banana* en el Proceso de la Empresa
 
 ### 5.1 Rol en la cadena de valor
-*Nano Banana* aporta en:  
-- **Diseño**: variaciones de materiales y colores.  
-- **Marketing**: renders listos sin esperar prototipos.  
-- **Producción**: validación visual previa.  
-- **Ventas**: catálogos digitales preliminares.  
+*Nano Banana* se convierte en una herramienta transversal que aporta valor en todas las fases del negocio:  
+
+- **Diseño** → variaciones rápidas de materiales y colores.  
+- **Marketing** → renders listos sin esperar a prototipos.  
+- **Producción** → validación visual previa antes de fabricar.  
+- **Ventas** → catálogos digitales preliminares para testar con clientes.  
 
 ---
 
 ### 5.2 Ventajas
-- Reducción de costes.  
-- Aceleración del time-to-market.  
-- Mejor comunicación interna.  
-- Pruebas ilimitadas.  
+- **Reducción de costes** → menos prototipos físicos innecesarios.  
+- **Aceleración del time-to-market** → pasar de idea a catálogo en días.  
+- **Mejor comunicación interna** → equipos alineados con imágenes claras en lugar de bocetos ambiguos.  
+- **Pruebas ilimitadas** → exploración de tantas variaciones como se desee.  
 
 ---
 
-### 5.3 Flujo recomendado
-1. Boceto o foto base.  
-2. Generación de variaciones.  
-3. Selección en equipo.  
-4. Presentación a marketing.  
-5. Validación antes de prototipado físico.  
+### 5.3 Buenas prácticas
+- **Documentar cada iteración** para no perder versiones.  
+- **Definir paletas de temporada** y trabajar con referencias Pantone.  
+- **Incluir materiales propios de la empresa** en los prompts para mantener coherencia.  
+- **Validar físicamente** antes de la producción masiva: la IA es una herramienta de apoyo, no un sustituto del prototipado real.  
 
 ---
 
-### 5.4 Ejemplo visual
-Imagen base: bota negra.  
-Variaciones: roja brillante, verde burbujas, animal print.  
-
-*(Aquí insertarás las imágenes: base + tres variaciones en esquema de proceso)*  
-
----
-
-### 5.5 Buenas prácticas
-- Documentar iteraciones.  
-- Definir paletas de temporada.  
-- Incluir materiales propios.  
-- Validar físicamente antes de producción masiva.  
+### 5.4 Futuro del diseño con IA
+El futuro apunta a un **diseño colaborativo humano-IA**:  
+- El diseñador aporta la visión, la dirección estética y el criterio.  
+- La IA aporta velocidad, variaciones y realismo en los resultados.  
+- Juntos permiten a la empresa **innovar más rápido y con menos riesgo**.  
 
 ---
 
-### 5.6 Futuro del diseño con IA
-Hacia un **diseño colaborativo humano-IA**, donde el diseñador aporta dirección y la IA velocidad y variedad.  
+### 5.5 Conclusión
+Integrar *Nano Banana* en la empresa significa transformar el proceso en **ágil, económico y altamente creativo**, alineado con las exigencias actuales del mercado de la moda y el calzado.  
 
----
-
-### 5.7 Conclusión
-Integrar *Nano Banana* significa transformar el proceso en **ágil, económico y altamente creativo**, alineado con las exigencias actuales del mercado.  
+La clave está en **aprovechar ChatGPT para generar prompts en inglés**, logrando una comunicación más precisa con la IA y resultados de mayor calidad.  
 
 
 <p align="center">
