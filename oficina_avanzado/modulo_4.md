@@ -44,7 +44,7 @@ Con *Nano Banana*, se eliminan esas barreras: el equipo puede **probar ideas sin
 
 3. Resultado:   
 <p align="center">
-  <img src="{{ '/oficina_avanzado/resources/result_boceto.png' | relative_url }}" alt="result " width="300" style="border-radius: 5px;">
+  <img src="{{ '/oficina_avanzado/resources/result_boceto.png' | relative_url }}" alt="result " width="700" style="border-radius: 5px;">
 </p>
 
 ---
