@@ -79,7 +79,7 @@ Cuando trabajes en inglés, usa una estructura clara:
      <img src="{{ '/oficina_avanzado/resources/black_boot.jpg' | relative_url }}" alt="Bota negra" width="200" style="border-radius: 5px;">
      <img src="{{ '/oficina_avanzado/resources/red_boot.png' | relative_url }}" alt="Bota roja" width="200" style="border-radius: 5px;">
      <img src="{{ '/oficina_avanzado/resources/bubble_boot.png' | relative_url }}" alt="Bota burbujas" width="200" style="border-radius: 5px;">
-     <img src="{{ '/oficina_avanzado/resources/pyton_boot.png' | relative_url }}" alt="Bota leopardo" width="200" style="border-radius: 5px;">
+     <img src="{{ '/oficina_avanzado/resources/pyton_boot.png' | relative_url }}" alt="Bota Pyton" width="200" style="border-radius: 5px;">
    </div>  
 
 ---

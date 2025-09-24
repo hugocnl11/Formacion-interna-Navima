@@ -9,7 +9,7 @@ En el sector calzado, la fotografía de producto es fundamental porque:
 Con *Nano Banana*, ahora se pueden generar **shootings virtuales realistas** sin necesidad de fabricar prototipos en fases tempranas.  
 
 <p align="center">
-  <img src="{{ '/oficina_avanzado/resources/prompt_1.png' | relative_url }}" alt="Bota negra base" width="800" style="border-radius: 5px;">
+  <img src="{{ '/oficina_avanzado/resources/shooting_example1.png' | relative_url }}" alt="shooting_example1" width="800" style="border-radius: 5px;">
 </p>  
 
 ---
@@ -20,15 +20,7 @@ Con *Nano Banana*, ahora se pueden generar **shootings virtuales realistas** sin
 - **Consistencia visual en catálogos**: misma base con diferentes variaciones.  
 - **Ahorro de tiempo y costes** al evitar sesiones fotográficas repetitivas.  
 
-> ✅ Consejo: describe en castellano el tipo de foto que buscas y pide a **ChatGPT** que lo convierta en un prompt en inglés optimizado para *Nano Banana*. Ejemplo:  
-> “Quiero un catálogo con iluminación de estudio y fondo blanco” → *ChatGPT genera el prompt en inglés perfecto para la IA*.  
-Yo :Prompt donde estas botas negras estén en una ciudad con neones: 
-*ChatGPT: Black leather mid-heel boots (identical to the reference), placed in a modern urban environment. They are on wet pavement reflecting neon city lights. Blurred cars and skyscrapers with glowing billboards in the background. The style should be realistic and high quality, focusing on the boots, highlighting their shine and elegance. Perspective slightly from ground level.
-*.  
-<p align="center">
-  <img src="{{ '/oficina_avanzado/resources/shooting_example1.png' | relative_url }}" alt="Bota negra base" width="800" style="border-radius: 5px;">
-</p>  
-
+> ✅ Consejo: describe en castellano el tipo de foto que buscas y pide a **ChatGPT** que lo convierta en un prompt en inglés optimizado para *Nano Banana*. 
 
 ---
 
