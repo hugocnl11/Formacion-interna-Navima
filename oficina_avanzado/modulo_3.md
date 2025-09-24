@@ -33,30 +33,35 @@ Yo :Prompt donde estas botas negras estén en una ciudad con neones:
 ---
 
 ### 3.3 Flujo de trabajo fotográfico con IA
-1. **Foto base simple** → una bota en fondo neutro.  
-2. **Variaciones en color/material** → aplicadas con prompts en inglés.  
-3. **Inserción en escenarios virtuales** → urbano, pasarela, catálogo online.  
-4. **Exportación en alta calidad** → lista para web, catálogo o redes sociales.  
-
----
-
-### 3.4 Ejemplo práctico
-1. Imagen base: bota negra.  
-2. Variaciones generadas con *Nano Banana*:  
-   - **Roja brillante** → ideal para catálogo de e-commerce.  
-   - **Verde burbujas** → propuesta disruptiva para campaña urbana.  
-   - **Animal print** → ejemplo de colección cápsula en pasarela virtual.  
-
+1. **Fotos base simple** → Imagenes de stock de unas sandalias y una pose.
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="{{ '/oficina_avanzado/resources/black_boot.jpg' | relative_url }}" alt="Bota negra base" width="200" style="border-radius: 5px;">
-  <img src="{{ '/oficina_avanzado/resources/red_boot.png' | relative_url }}" alt="Bota roja catálogo" width="200" style="border-radius: 5px;">
-  <img src="{{ '/oficina_avanzado/resources/bubble_boot.png' | relative_url }}" alt="Bota verde campaña urbana" width="200" style="border-radius: 5px;">
-  <img src="{{ '/oficina_avanzado/resources/pyton_boot.png' | relative_url }}" alt="Bota animal print pasarela" width="200" style="border-radius: 5px;">
-</div>  
+<img src="{{ '/oficina_avanzado/resources/pose1.jpg' | relative_url }}" alt="Bota negra base" width="200" style="border-radius: 5px;">
+<img src="{{ '/oficina_avanzado/resources/pose2.jpg' | relative_url }}" alt="Bota roja catálogo" width="200" style="border-radius: 5px;">
+<img src="{{ '/oficina_avanzado/resources/pose3.jpg' | relative_url }}" alt="Bota verde campaña urbana" width="200" style="border-radius: 5px;">
+<img src="{{ '/oficina_avanzado/resources/pose4.jpg' | relative_url }}" alt="Bota animal print pasarela" width="200" style="border-radius: 5px;">
+<img src="{{ '/oficina_avanzado/resources/pose5.png' | relative_url }}" alt="Bota animal print pasarela" width="200" style="border-radius: 5px;">
+</div> 
+
+2. **Pedimos Prompt a ChatGPT ** → En inglés diciendole que es para otra IA:
+<p align="center">
+  <img src="{{ '/oficina_avanzado/resources/chatGPT_prompt.png' | relative_url }}" alt="Bota negra base" width="500" style="border-radius: 5px;">
+</p>
+
+3. **Metemos la información en la IA** → En este caso Nano banana.
+<p align="center">
+  <img src="{{ '/oficina_avanzado/resources/nano_banana_prompt.png' | relative_url }}" alt="Bota negra base" width="500" style="border-radius: 5px;">
+</p>
+
+
+4. **Resultado** → Exportación de la app.  
+<p align="center">
+  <img src="{{ '/oficina_avanzado/resources/nb_result.png' | relative_url }}" alt="Bota negra base" width="500" style="border-radius: 5px;">
+</p>
+
 
 ---
 
-### 3.5 Ventajas frente a la fotografía tradicional
+### 3.4 Ventajas frente a la fotografía tradicional
 - **Reducción de costes** → menos prototipos físicos.  
 - **Rapidez** → colecciones listas en días, no semanas.  
 - **Flexibilidad creativa** → escenarios y acabados ilimitados.  
@@ -64,7 +69,7 @@ Yo :Prompt donde estas botas negras estén en una ciudad con neones:
 
 ---
 
-### 3.6 Conclusión
+### 3.5 Conclusión
 Con *Nano Banana*, la fotografía de producto se convierte en un proceso **digital, escalable y flexible**, adaptado tanto a necesidades comerciales (catálogos, e-commerce) como creativas (campañas disruptivas).  
 
 El secreto está en **usar prompts en inglés bien optimizados con ayuda de ChatGPT**, garantizando imágenes realistas y consistentes en cualquier escenario.  
