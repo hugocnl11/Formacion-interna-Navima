@@ -1,61 +1,63 @@
-# Curso avanzado de IA para Diseño y Fotografía
+# Curso Avanzado de IA para Diseño de Calzado y Fotografía
 
-Este curso está dirigido a diseñadores de calzado y fotógrafos que deseen integrar modelos generativos en su flujo de trabajo. Se estudiarán herramientas como DALL·E, Adobe Firefly, Vizcom y NewArc, combinándolas con software tradicional (Photoshop, Illustrator, Rhino) para crear nuevas colecciones de calzado, renderizar bocetos en 3D, aplicar texturas reales y producir animaciones. La IA servirá como asistente creativo que multiplica las ideas y reduce tiempos de prototipado.
+Este curso está dirigido a diseñadores de calzado y fotógrafos que deseen integrar **Nano Banana** y otras herramientas de IA en su flujo de trabajo. Aprenderás a transformar bocetos y fotos de producto en renders realistas, probar materiales y colores de forma virtual, y generar fotografías de catálogo sin necesidad de prototipos físicos.  
+
+La IA se convierte en un **asistente creativo y productivo**, que multiplica las ideas, acelera el prototipado y aporta flexibilidad en todo el proceso de diseño y marketing.  
 
 ---
 
 ## Objetivos del Curso
 
-Al finalizar este curso, serás capaz de:
-
-1. Emplear modelos generativos (DALL·E, Adobe Firefly, Vizcom, NewArc, Midjourney, etc.) para crear propuestas de calzado y accesorios a partir de descripciones, referencias y bocetos.
-2. Integrar texturas y materiales reales en los prompts para obtener visualizaciones realistas.
-3. Convertir bocetos en renders 3D o animaciones para prototipado y marketing.
-4. Conocer la regulación y las implicaciones de derechos de autor al comercializar imágenes generadas.
-5. Aprender a combinar herramientas de IA con software tradicional dentro de un flujo de trabajo flexible.
+Al finalizar este curso, serás capaz de:  
+- Emplear *Nano Banana* para crear propuestas de calzado a partir de bocetos, referencias e imágenes base.  
+- Probar **variaciones de materiales, colores y acabados** de manera rápida y sin costes de prototipado.  
+- Generar **fotografías de producto virtuales** listas para catálogos, campañas o e-commerce.  
+- Integrar escenarios y fondos realistas en renders de producto.  
+- Utilizar **ChatGPT** para optimizar prompts en inglés y lograr resultados más consistentes.  
+- Conocer buenas prácticas para integrar la IA en procesos de diseño, marketing y producción.  
 
 ---
 
 ## Contenido del Curso
 
-### [Módulo 1: Modelos generativos en diseño y fotografía](/oficina_avanzado/modulo_1.md)
-- Introducción a DALL·E, Adobe Firefly, Vizcom, NewArc y Midjourney.
-- Cómo utilizar IA para generar conceptos y propuestas innovadoras.
-- Técnicas de inspiración y creación a partir de prompts efectivos.
+### [Módulo 1: Introducción a Nano Banana en el diseño de calzado](/oficina_avanzado/modulo_1.md)
+- Cómo funciona la IA generativa en imágenes de producto.  
+- Beneficios en el proceso creativo y de prototipado.  
 
-### [Módulo 2: Integración avanzada de texturas y materiales ](/oficina_avanzado/modulo_2.md)
-- Técnicas para incorporar texturas reales y materiales específicos en prompts.
-- Consejos para obtener resultados realistas y aplicables.
-- Ejemplos prácticos en diseño de calzado y accesorios.
+### [Módulo 2: Flujo de trabajo con Nano Banana](/oficina_avanzado/modulo_2.md)
+- De la foto base al render final.  
+- Uso de prompts optimizados en inglés con ayuda de ChatGPT.  
+- Ejemplos prácticos de variaciones de color, material y acabado.  
 
-### [Módulo 3: De bocetos a renders y animaciones ](/oficina_avanzado/modulo_3.md)
-- Uso de IA para transformar bocetos en modelos 3D.
-- Renderizado realista y creación de animaciones rápidas.
-- Herramientas recomendadas para el prototipado digital (Rhino, Blender, etc.).
+### [Módulo 3: Aplicaciones en fotografía de producto](/oficina_avanzado/modulo_3.md)
+- Creación de shootings virtuales.  
+- Fondos y escenarios controlados digitalmente.  
+- Consistencia visual en catálogos.  
 
-### [Módulo 4: Aspectos legales y derechos de autor](/oficina_avanzado/modulo_4.md) 
-- Regulaciones vigentes sobre imágenes generadas por IA.
-- Gestión adecuada de licencias y permisos en comercialización.
-- Buenas prácticas para evitar conflictos legales.
+### [Módulo 4: Experimentación creativa](/oficina_avanzado/modulo_4.md)
+- Generación de materiales imposibles y patrones disruptivos.  
+- Rol en brainstorming y moodboards automáticos.  
+- Ejemplos de propuestas arriesgadas.  
 
-### [Módulo 5: Integración en flujos de trabajo tradicionales](/oficina_avanzado/modulo_5.md)
-- Combinación efectiva de software tradicional (Photoshop, Illustrator, Rhino) con herramientas IA.
-- Estrategias para optimizar tiempos de trabajo.
-- Creación de flujos flexibles que aprovechen al máximo las herramientas disponibles.
+### [Módulo 5: Integración en la empresa](/oficina_avanzado/modulo_5.md)
+- Rol de la IA en diseño, marketing, producción y ventas.  
+- Flujo recomendado de trabajo.  
+- Buenas prácticas y visión futura del diseño colaborativo humano-IA.  
 
 ---
 
 ## Recursos Adicionales
+- Guía práctica de prompts para calzado y fotografía (con ejemplos en inglés).  
+- Biblioteca de ejemplos visuales (bota negra base + variaciones generadas con Nano Banana).  
+- Checklist de buenas prácticas para la integración de IA en el proceso de diseño y marketing.  
 
-- Guía de prompts efectivos para diseño y fotografía.
-- Ejemplos prácticos de integración con Photoshop, Illustrator y Rhino.
-- Checklist legal para comercialización de diseños generados por IA.
+
+
+# Curso avanzado de IA para Diseño y Fotografía
+
+Este curso está dirigido a diseñadores de calzado y fotógrafos que deseen integrar modelos generativos en su flujo de trabajo. Se estudiarán herramientas como DALL·E, Adobe Firefly, Vizcom y NewArc, combinándolas con software tradicional (Photoshop, Illustrator, Rhino) para crear nuevas colecciones de calzado, renderizar bocetos en 3D, aplicar texturas reales y producir animaciones. La IA servirá como asistente creativo que multiplica las ideas y reduce tiempos de prototipado.
 
 ---
-
-## Evaluación
-
-Realiza proyectos prácticos integrando la IA con tu flujo habitual y revisa periódicamente con tu equipo para afinar tu proceso creativo.
 
 ¡Prepárate para impulsar tu creatividad a nuevos límites con la IA!
 
